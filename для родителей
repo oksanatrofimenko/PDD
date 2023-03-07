@@ -1,1 +1,76 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utf-8">
+        <title>Педагогика</title>
+		<meta name="description" content="педагогика наука">
+		<meta name="keywords" content="педагогика, образование, учеба">
+		<style>
+       .Mytable {
+            border-collapse: collapse;
+			width:1400px;
+			height:30px;
+			margin:auto;
+			font-size: 25px;
+        }
+		.wwww{
+		border-collapse: collapse;
+			width:800px;
+			height:500px;
+			margin:auto;
+			valign:top;
+			}
+		.meeee{
+		vertical-align: top;
+		border-collapse: collapse;
+			width:250px;
+			height:30px;
+			
+		}
+        td {
+            padding: 20px;
+			text-align: center;
+			}
+			.qqqq{
+			text-align:center;
+			color:black;
+			}
+			div { margin: 0px; text-align: center; }
+        #box { position: absolute; width: 1140px; }
+        #left { position: absolute; }
+        #right { position: relative; float: right; }
+		.eeee {
+		font-size: 35px;
+		}
+		.rrrr{
+		font-size: 20px;
+		}
+		.tttt{
+		font-size: 19px;
+		}
+    </style>
+    </head>
+	<body  background="imege/Cloud-asian-bg-scaled.jpg">
+	<table class="Mytable">
+	<tr><td><p font-size: 18px>Сайт воспитателя дошкольного образования<p>Трофименко О.Ф.</p></td></tr>
+	</table>
+	<div id='box'>
+	<div id='left'>
+	<table class="meeee">
+	<tr>
+	<td><a href="Портфолио.html">Портфолио</a></td>
+	</tr>
+	<tr>
+	<td><a href="Гостевая книга.html">Гостевая книга</a></td>
+	</tr>
+	<tr>
+	<td><a href="Документы.html">Мероприятия</a></td>
+	</tr>
+	<tr>
+	<td><a href="Блог.html">Блог</a></td>
+	</tr>
+  <tr>
+  <td><a href="для родителей.html">Родители</a></td>
+  </tr>
+	</table>
